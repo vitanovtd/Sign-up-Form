@@ -93,3 +93,29 @@ button[type="submit"] {
   font-size: 16px;
   margin-top: 20px;
 }
+
+button[type="submit"]:hover {
+  background-color: #be9525;
+}
+
+.terms {
+  font-size: 12px;
+  color: #666;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.terms a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.terms a:hover {
+  text-decoration: underline;
+}
+
+.login {
+  font-size: 14px;
+  margin-top: 20px;
+  text-align: center;
+}
