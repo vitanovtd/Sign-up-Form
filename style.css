@@ -68,8 +68,28 @@ html {
   margin-bottom: 20px;
 }
 
-.form-groum label {
+.form-group label {
   display: block;
   margin-bottom: 5px;
   color: #666;
+}
+
+.form-group input {
+  width: 100%;
+  /* padding: 10p/x; */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 28px;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 15px;
+  background-color: #e0bc58;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
 }
