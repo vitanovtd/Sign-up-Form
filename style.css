@@ -119,3 +119,12 @@ button[type="submit"]:hover {
   margin-top: 20px;
   text-align: center;
 }
+
+.login a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.login a:hover {
+  text-decoration: underline;
+}
